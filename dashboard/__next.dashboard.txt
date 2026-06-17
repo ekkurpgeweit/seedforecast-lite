@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[92825,["/seedforecast-lite/_next/static/chunks/ff1a16fafef87110.js","/seedforecast-lite/_next/static/chunks/a2dfb6fc5208ab9b.js"],"ClientSegmentRoot"]
+3:I[82391,["/seedforecast-lite/_next/static/chunks/454e4b9a9689a954.js","/seedforecast-lite/_next/static/chunks/4dfd9e91be3d0993.js","/seedforecast-lite/_next/static/chunks/bf2d03218c716074.js","/seedforecast-lite/_next/static/chunks/903ac2ede844a631.js","/seedforecast-lite/_next/static/chunks/9ccb681d04295600.js"],"default"]
+4:I[39756,["/seedforecast-lite/_next/static/chunks/ff1a16fafef87110.js","/seedforecast-lite/_next/static/chunks/a2dfb6fc5208ab9b.js"],"default"]
+5:I[37457,["/seedforecast-lite/_next/static/chunks/ff1a16fafef87110.js","/seedforecast-lite/_next/static/chunks/a2dfb6fc5208ab9b.js"],"default"]
+0:{"buildId":"CtaAJBn0bJJ_v6yPQjtSx","rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/seedforecast-lite/_next/static/chunks/bf2d03218c716074.js","async":true}],["$","script","script-1",{"src":"/seedforecast-lite/_next/static/chunks/903ac2ede844a631.js","async":true}],["$","script","script-2",{"src":"/seedforecast-lite/_next/static/chunks/9ccb681d04295600.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":null,"isPartial":false}
+6:"$0:rsc:props:children:1:props:serverProvidedParams:params"
