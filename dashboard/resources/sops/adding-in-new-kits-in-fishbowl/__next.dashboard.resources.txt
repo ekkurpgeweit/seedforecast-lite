@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/seedforecast-lite/_next/static/chunks/ff1a16fafef87110.js","/seedforecast-lite/_next/static/chunks/483effa74d32093a.js"],"default"]
 3:I[37457,["/seedforecast-lite/_next/static/chunks/ff1a16fafef87110.js","/seedforecast-lite/_next/static/chunks/483effa74d32093a.js"],"default"]
-0:{"buildId":"ny9pZTpJ1BjV18uChbQY6","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"HyBArrnW6662SJs2L95Td","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
