@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,338632,e=>{"use strict";var t=e.i(271645),u=e.i(618566);function r(){let e=(0,u.useRouter)();return(0,t.useEffect)(()=>{e.replace("/dashboard/purchasing-risk")},[e]),null}e.s(["default",()=>r])}]);
