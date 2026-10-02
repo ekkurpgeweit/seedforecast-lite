@@ -1,1 +1,1 @@
-{"success":true,"metrics":{"shippedYesterday":91,"pickingOrders":{"total":108,"completelyFillable":27,"partiallyFillable":81},"shippingOrders":{"total":59,"oldOrders":4,"hasOldOrders":true}},"timestamp":"2026-10-02T17:58:46.429Z","cached":true,"fromFile":true,"cacheAge":124}
+{"success":true,"metrics":{"shippedYesterday":91,"pickingOrders":{"total":125,"completelyFillable":40,"partiallyFillable":85},"shippingOrders":{"total":26,"oldOrders":3,"hasOldOrders":true}},"timestamp":"2026-10-02T22:27:08.359Z","cached":true,"fromFile":true,"cacheAge":125}
