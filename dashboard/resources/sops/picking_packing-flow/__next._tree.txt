@@ -1,2 +1,7 @@
-:HL["/seedforecast-lite/_next/static/chunks/1f244b90219f6408.css","style"]
-0:{"buildId":"qkltZIAYoVfoFKcUmHVPl","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"dashboard","paramType":null,"paramKey":"dashboard","hasRuntimePrefetch":false,"slots":{"children":{"name":"resources","paramType":null,"paramKey":"resources","hasRuntimePrefetch":false,"slots":{"children":{"name":"sops","paramType":null,"paramKey":"sops","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"picking_packing-flow","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/seedforecast-lite/_next/static/chunks/0gwovtdrq-k2d.css","style"]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"slug","t":"d","k":"picking_packing-flow","s":["new"]},"h":65632,"c":"$Q5"}]]
+3:[["children",{"s":"sops","h":131168,"c":"$Q4"}]]
+2:[["children",{"s":"resources","h":131168,"c":"$Q3"}]]
+1:[["children",{"s":"dashboard","h":131168,"c":"$Q2"}]]
+0:{"b":"qTD9tN2oSdmJDK7L6xZm2","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

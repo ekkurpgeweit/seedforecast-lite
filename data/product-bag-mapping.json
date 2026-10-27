@@ -935,6 +935,36 @@
       "bag_size": "medium_12x3.5x22",
       "bag_type_name": "Brown Pasture",
       "bag_size_name": "Medium (12x3.5x22)"
+    },
+    "PB-DOVE-10-LB": {
+      "bag_category": "brown_pasture",
+      "bag_size": "medium_12x3.5x22",
+      "bag_type_name": "Brown Pasture",
+      "bag_size_name": "Medium (12x3.5x22)"
+    },
+    "W-HEAN-0.25-LB": {
+      "bag_category": "red_wildflower_pouch",
+      "bag_size": "medium_packet",
+      "bag_type_name": "Red Wildflower Pouch",
+      "bag_size_name": "Medium Packet"
+    },
+    "WB-CUTC-0.5-LB": {
+      "bag_category": "red_wildflower_pouch",
+      "bag_size": "medium_packet",
+      "bag_type_name": "Red Wildflower Pouch",
+      "bag_size_name": "Medium Packet"
+    },
+    "WB-CUTP-0.5-LB": {
+      "bag_category": "red_wildflower_pouch",
+      "bag_size": "medium_packet",
+      "bag_type_name": "Red Wildflower Pouch",
+      "bag_size_name": "Medium Packet"
+    },
+    "WB-CUTS-0.5-LB": {
+      "bag_category": "red_wildflower_pouch",
+      "bag_size": "medium_packet",
+      "bag_type_name": "Red Wildflower Pouch",
+      "bag_size_name": "Medium Packet"
     }
   }
 }

@@ -1,2 +1,6 @@
-:HL["/seedforecast-lite/_next/static/chunks/1f244b90219f6408.css","style"]
-0:{"buildId":"qkltZIAYoVfoFKcUmHVPl","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"dashboard","paramType":null,"paramKey":"dashboard","hasRuntimePrefetch":false,"slots":{"children":{"name":"reports","paramType":null,"paramKey":"reports","hasRuntimePrefetch":false,"slots":{"children":{"name":"abc-analysis","paramType":null,"paramKey":"abc-analysis","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/seedforecast-lite/_next/static/chunks/0gwovtdrq-k2d.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"abc-analysis","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"reports","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"dashboard","h":96,"c":"$Q2"}]]
+0:{"b":"qTD9tN2oSdmJDK7L6xZm2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
