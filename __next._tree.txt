@@ -1,3 +1,3 @@
 :HL["/seedforecast-lite/_next/static/chunks/0gwovtdrq-k2d.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"EwNm3e8I-cCUIMr8Fg3rr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"PxDxZBuTDW5xklG--t0Cx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
